@@ -9,9 +9,15 @@ Colors are made up of 3 primary colors; red, green, and blue. In computers, we d
 The [colors.csv](https://github.com/kkd1215/Color-Detection/blob/main/colors.csv) file includes 865 color names along with their RGB and hex values.
 
 # Libraries used :
-    - OpenCV
-    - Pandas
-    - Numpy
+1. [OpenCV](https://opencv.org/)
+
+    OpenCV-Python is a library of Python bindings designed to solve computer vision problems. OpenCV-Python makes use of Numpy, which is a highly optimized library for numerical operations with a MATLAB-style syntax. All the OpenCV array structures are converted to and from Numpy arrays.
+
+2. [Numpy](https://numpy.org/)
+    NumPy is a Python library used for working with arrays. It also has functions for working in domain of linear algebra, fourier transform, and matrices. It is an open source project and you can use it freely. NumPy stands for Numerical Python.
+
+3. [Pandas](https://pandas.pydata.org/)
+    Pandas is mainly used for data analysis. Pandas allows importing data from various file formats such as comma-separated values, JSON, SQL, Microsoft Excel. Pandas allows various data manipulation operations such as merging, reshaping, selecting, as well as data cleaning, and data wrangling features.
 
 # Instructions to use :
 
